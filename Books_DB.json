@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Destino Final",
+        "author": "Cristian",
+        "genre": "Terror",
+        "year": "2022",
+        "spend": "$100",
+        "sell": "$200"
+    },
+    {
+        "id": 2,
+        "title": "Piratas del Caribe",
+        "author": "Desconocido",
+        "genre": "Aventura",
+        "year": "2006",
+        "spend": "$1250",
+        "sell": "$3500"
+    },
+    {
+        "id": 3,
+        "title": "Titanic",
+        "author": "Desconocido",
+        "genre": "Drama",
+        "year": "1995",
+        "spend": "$200",
+        "sell": "$800"
+    },
+    {
+        "id": 4,
+        "title": "prueba",
+        "author": "federico",
+        "genre": "terror",
+        "year": "2022",
+        "spend": "$1000",
+        "sell": "$1500"
+    }
+]
