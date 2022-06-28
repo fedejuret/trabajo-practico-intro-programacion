@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "2",
+        "author": "titulo",
+        "genre": "autor",
+        "year": "genero",
+        "cost": "año",
+        "price": "costo"
+    },
+    {
+        "id": 2,
+        "title": "titulo",
+        "author": "autor",
+        "genre": "genero",
+        "year": "año",
+        "cost": "costo",
+        "price": "precio"
+    }
+]

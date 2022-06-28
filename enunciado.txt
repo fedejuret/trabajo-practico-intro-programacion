@@ -1,0 +1,41 @@
+Se deberá crear una aplicación de consola que permita la carga , lectura , edición y borrado de distintos 
+libros a una pequeña "base de datos" de una tienda de libros.
+
+deberá contar con una "base de datos" 📜, que será un archivo JSON con una matriz de Objetos Literales 
+que representará el inventario de nuestra tienda.
+
+Todo el código deberá escribirse con la sintaxis moderna que se ha visto en clases.💻
+
+carga➕ 👉deberá tomar por consola el nuevo comando seguido de otros comandos basados ​​en los siguientes campos:
+
+título
+autor (autora)
+género (género)
+año (año de publicación)
+costo (precio de compra)
+precio (precio de venta)
+
+Aquí se deberá cargar cadenas para cada uno de esos campos.
+
+Luego deberá tomar esos datos y agregar un nuevo Objeto Literal con los mismos a la base
+ de datos, tener en cuenta que se deberá agregar un campo id (con los cálculos 
+ correspondientes para que siempre se le agregue un id no existente) como identificador.
+
+Lectura🤓 👉deberá tomar por consola el comando read y deberá visualizar por consola el
+ array completo de los libros disponibles.
+
+edición📝 👉deberá tomar por consola el comando edit seguido del id del libro a modificar 
+y de los mismos campos que en la carga (con los datos finales del libro).
+
+borrado🗑 👉puede tomar por consola el comando delete seguido del id del libro a eliminar.
+
+el formato de entrega será en este mismo repositorio, a través de una rama personalizada que se deberá 
+llamar con el apellido del alumno. Ej: aguirre .
+
+Se deberá clonar o forkear este repositorio en su entorno local así se tiene la consigna disponible y 
+ya queda configurado el remoto para empujar los cambios a medida que se vaya funcionando. Luego de 
+clonarlo, se deberá crear inmediatamente una rama propia y desde allí comenzar a trabajar.
+
+IMPORTANTE Tenga cuidado de no modificar o editar la rama master , y de hacerlo, descartar los cambios
+en la misma para que a la hora de empujar los cambios no se envíen hacia aquí, para que la rama 
+master quede limpia y solamente contenga el readme. MD _
