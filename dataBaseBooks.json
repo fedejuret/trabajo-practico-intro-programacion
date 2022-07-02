@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "gamorra",
+        "author": "leandro",
+        "genre": "drama",
+        "year": 2021,
+        "coast": 255,
+        "price": 300
+    }
+]

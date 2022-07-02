@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "title": "Harry potte43",
+        "Author": "leandro",
+        "Gender": "comedia",
+        "Year": "20322",
+        "Coast": "500",
+        "Price": "600"
+    },
+    {
+        "id": 4,
+        "title": "camaleon",
+        "Author": "romina",
+        "Gender": "2012",
+        "Year": "500",
+        "Coast": "750"
+    },
+    {
+        "id": 5,
+        "title": "fornite",
+        "Author": "fausto",
+        "Gender": "2020",
+        "Year": "700",
+        "Coast": "1500"
+    },
+    {
+        "id": 6,
+        "title": "",
+        "Author": "alexis",
+        "Gender": "drama",
+        "Year": 2010,
+        "Coast": 20,
+        "Price": 20
+    }
+]
