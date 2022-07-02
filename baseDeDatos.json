@@ -1,0 +1,56 @@
+[
+    {
+        "id": 2,
+        "title": "libro 3",
+        "author": "JK Rowling",
+        "genre": "Fantasy",
+        "year": "1995",
+        "spend": "$2000",
+        "sell": "$4000"
+    },
+    {
+        "id": 4,
+        "title": "libro 3",
+        "author": "JK Rowling",
+        "genre": "Fantasy",
+        "year": "1995",
+        "spend": "$2000",
+        "sell": "$4000"
+    },
+    {
+        "id": 5,
+        "title": "hola",
+        "author": "JK Rowling",
+        "genre": "Fantasy",
+        "year": "1995",
+        "spend": "$2000",
+        "sell": "$4000"
+    },
+    {
+        "id": 6,
+        "title": "messi te amo",
+        "author": "maradona",
+        "genre": "Fantasy",
+        "year": "1995",
+        "spend": "$2000",
+        "sell": "$4000"
+    },
+    {
+        "id": 8,
+        "title": "pelado",
+        "author": "pelado",
+        "genre": "pelado",
+        "year": "3",
+        "spend": "$400",
+        "sell": "$500"
+    },
+    {
+        "id": 9,
+        "title": "pelado",
+        "author": "pelado",
+        "genre": "pelado",
+        "year": "3",
+        "spend": "$400",
+        "sell": "$500"
+    }
+]
