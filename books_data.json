@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "libro1",
+        "author": "autor1",
+        "genre": "terror",
+        "year": "1",
+        "cost": "1",
+        "price": "1"
+    },
+    {
+        "id": 2,
+        "title": "libro2",
+        "author": "autor2",
+        "genre": "terror",
+        "year": "2",
+        "cost": "2",
+        "price": "2"
+    },
+    {
+        "id": 3,
+        "title": "libro3",
+        "author": "autor3",
+        "genre": "terror",
+        "year": "2",
+        "cost": "2",
+        "price": "3"
+    }
+]
