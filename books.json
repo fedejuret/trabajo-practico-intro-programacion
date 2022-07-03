@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "La naranja mecánica",
+        "author": " Anthony Burgess",
+        "genre": "Novela",
+        "year": 1962,
+        "cost": 500,
+        "price": 950
+    },
+    {
+        "id": 2,
+        "title": "prueba editada",
+        "author": "valentina",
+        "genre": "comedia",
+        "year": 2023,
+        "cost": 500,
+        "price": 600
+    }
+]
