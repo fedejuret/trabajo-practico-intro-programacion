@@ -1,0 +1,11 @@
+{
+  "name": "tienda-de-libros",
+  "version": "1.0.0",
+  "description": "Primer trabajo integrador: Tienda de libros",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Farias",
+  "license": "ISC"
+}
