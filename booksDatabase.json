@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "genre": "Fantasia",
+        "year": "1997",
+        "cost": "200",
+        "price": "1000"
+    },
+    {
+        "id": 2,
+        "title": "El Senior de los Anillos",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasia",
+        "year": "1954",
+        "cost": "400",
+        "price": "2000"
+    },
+    {
+        "id": 3,
+        "title": "Farenheit 451",
+        "author": "Ray Bradbury",
+        "genre": "Ciencia Ficcion",
+        "year": "1953",
+        "cost": "100",
+        "price": "800"
+    },
+    {
+        "id": 4,
+        "title": "Cruzar la Noche",
+        "author": "Alicia Barberis",
+        "genre": "Drama",
+        "year": "1994",
+        "cost": "200",
+        "price": "700"
+    },
+    {
+        "id": 5,
+        "title": "El libro Final",
+        "author": "Agustin Godoy",
+        "genre": "Drama-Comedia",
+        "year": "2022",
+        "cost": "10",
+        "price": "15000"
+    }
+]
